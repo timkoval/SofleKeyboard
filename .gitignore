@@ -1,3 +1,5 @@
+.DS_Store
+
 PCB/gerber*
 Case/PCBBottom/gerb*
 Case/PCBTop/gerb*
